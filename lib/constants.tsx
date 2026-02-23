@@ -3,12 +3,12 @@ export const PERSONAL_INFO = {
   name: "Krishna Prasad",
   initials: "KP",
   email: "kparjun12@gmail.com",
-  profileImage: "/professional-profile.png",
-  avatarImage: "/abstract-profile.png",
+  profileImage: "/profile.jpg",
+  avatarImage: "/profile.jpg",
   aboutStatements: [
     "Full-Stack Developer",
     "AI/ML Professional",
-    "Data Engineering"
+    "Data Engineer"
   ],
 }
 
@@ -63,7 +63,6 @@ export const EXPERIENCES = [
       achievements: [
         "1CPL → 1Stream Data Migration – Migrating Marsgroup datasets from ABFSS storage to Delta tables with schema and logic redesign.",
         "Tigerml Package Upgrade – Expanded Python compatibility to versions 3.10–3.12, improving maintainability and developer flexibility.",
-        "Single Customer View (SCV) Solution – Built a graph-based deduplication approach to unify customer identities across data sources.",
         "Single Customer View (SCV) Solution – Built a graph-based deduplication approach to unify customer identities across data sources.",
       ],
     },
